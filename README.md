@@ -9,13 +9,12 @@ The nicely quoted problem statement for the challenge from the [IBM Blog](https:
 
 
 ### The challenge ahead   
-- **Lab 1: Qiskit Runtime and Primitives**   
-- **Lab 2: Quantum Machine Learning**   
-- **Lab 3: Quantum Optimization**    
-- **Lab 4: Quantum Chemistry**   
+  **Lab 1: Qiskit Runtime and Primitives**   
+  **Lab 2: Quantum Machine Learning**   
+  **Lab 3: Quantum Optimization**    
+  **Lab 4: Quantum Chemistry**   
  
-#### Error Suppression and Error Mitigation
-- Routines  
+#### Error Suppression and Error Mitigation 
   - Matrix-free Measurement Mitigation (M3)  
   - Dynamic Decoupling (DD)   
   - Twirled Readout Error eXtinction (T-REX)   
