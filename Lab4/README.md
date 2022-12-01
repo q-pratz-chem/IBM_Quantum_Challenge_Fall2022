@@ -11,5 +11,5 @@
   - Exercise 4: Computing reaction energy of 𝐻<sub>3</sub><sup>+</sup> 
 - Part II: Exploring Interstellar Cyclopropenylidene (C<sub>3</sub>H<sub>2</sub>)
   - Exercise 5: Exploring the first excited state and computing dipole moment of Cyclopropenylidene
-- Part III: Final Challenge - Exploring the Interstellar Cyclopropenylidene (𝐶3𝐻2) Reaction Chain
+- Part III: Final Challenge - Exploring the Interstellar Cyclopropenylidene (C<sub>3</sub>H<sub>2</sub>) Reaction Chain
 - Final Challenge: computing the reaction energy of C + C<sub>2</sub>H<sub>2</sub> → C<sub>3</sub>H<sub>2</sub> 
