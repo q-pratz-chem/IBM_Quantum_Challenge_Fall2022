@@ -4,7 +4,7 @@
 - Story
 - Introduction: Special Chemistry of Interstellar Molecules
 - VQE Syllabi
-- Part I: Exploring Interstellar <span style=H;>
+- Part I: Exploring Interstellar 𝐻<sub>3</sub><sup>+</sup>
   - Exercise 1: Defining Molecule declaration for 𝐻<sub>3</sub><sup>+</sup>
   - Exercise 2: Building up VQE using Estimator
   - Exercise 3: Creating helper functions
