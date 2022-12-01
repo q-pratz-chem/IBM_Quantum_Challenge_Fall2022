@@ -1,7 +1,7 @@
 # [IBM Quantum Challenge Fall 2022](https://research.ibm.com/blog/quantum-challenge-fall-2022)
 November 11-18, 2022
 
-#### Travel the cosmos with Qiskit Runtime
+### Travel the cosmos with Qiskit Runtime
 
 The nicely quoted problem statement for the challenge from the [IBM Blog](https://research.ibm.com/blog/quantum-challenge-fall-2022):
 
@@ -9,10 +9,10 @@ The nicely quoted problem statement for the challenge from the [IBM Blog](https:
 
 
 #### The challenge ahead
-###### Lab 1: Qiskit Runtime and Primitives
-###### Lab 2: Quantum Machine Learning
-###### Lab 3: Quantum Optimization
-###### Lab 4: Quantum Chemistry
+**Lab 1: Qiskit Runtime and Primitives**
+**Lab 2: Quantum Machine Learning**
+**Lab 3: Quantum Optimization**
+**Lab 4: Quantum Chemistry**
 
 #### Error Suppression and Error Mitigation
 - Routines
