@@ -24,4 +24,11 @@ The nicely quoted problem statement for the challenge from the [IBM Blog](https:
   - Probabilistic Error Cancellation (PEC)  
 
 
-To complete the challenge by coming up with the decode protocol to unscramble the message, finding optimal routes for own spaceship, calculating the reaction energies of interstellar molecules, and more, we need to build the computing journey on thoe Qiskit Runtime Primitives taking the advantage of Qiskit Runtime. 
+To complete the challenge by coming up with the decode protocol to unscramble the message, finding optimal routes for own spaceship, calculating the reaction energies of interstellar molecules, and more, we need to build the computing journey on thoe Qiskit Runtime Primitives taking the advantage of Qiskit Runtime.
+
+
+## Attribution
+
+The challenge exercises in this repository are based on the [IBM Quantum Challenge Fall 2022](https://github.com/qiskit-community/ibm-quantum-challenge-fall-22)  by IBM Quantum / Qiskit Community, licensed under [Apache-2.0](https://opensource.org/licenses/Apache-2.0).
+
+Original notebooks have been extended with personal notes, additional experiments, and analysis by Pratiksha Gaikwad.
